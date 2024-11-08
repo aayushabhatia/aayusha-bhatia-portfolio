@@ -1,0 +1,205 @@
+{
+  "hero": {
+    "imgUrl": "/images/portfolioImage.jpeg",
+    
+    "heading": "Aayusha Bhatia",
+    "typingText": ["I'm a Student", 1500,"I'm an Engineer", 1500, "I'm a Developer", 1500],
+    "btnText": "Download Resume",
+    "resumeUrl": "/images/Aayusha_Bhatia_Resume.pdf"
+  },
+  "socialBtns": [
+  {
+    "iconImg": "/images/portfolioLinkedinIcon.png",
+    "iconBgClass": "linkedin",
+    "href": "https://www.linkedin.com/in/aayusha-bhatia-31439a24b/"
+  },
+  {
+    "iconImg": "/images/portfolioGithubIcon.png",
+    "iconBgClass": "github",
+    "href": "https://github.com/aayushabhatia"
+  },
+  {
+    "iconImg": "/images/portfolioHackerrankIcon.png",
+    "iconBgClass": "hackerrank",
+    "href": "https://www.hackerrank.com/profile/aayushabhatia16"
+  },
+  {
+    "iconImg": "/images/portfolioLeetcodeIcon.png",
+    "iconBgClass": "leetcode",
+    "href": "https://leetcode.com/u/aayushabhatia16/"
+  }
+],
+  
+  "about": {
+    "imgSrc": "/images/portfolioAboutMeImage.jpg",
+    "miniTitle": "About Me",
+    "description": "Passionate and driven third-year Computer Science and Engineering student with a strong foundation in web development, data management, and agile methodologies. Eager to innovate and solve real-world problems, committed to continuous learning and making a meaningful impact in the tech industry.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Projects"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/portfolioProjectSpeechTherapy.jpg",
+        "title": "Speech Therapy Clinical Services",
+        "subTitle": "AIML, Web Development",
+        "details": {
+          "title": "Speech Therapy Clinical Services",
+          "description": "Web-based solution for managing speech therapy services, including patient allocation, therapy planning, and progress tracking, integrating AI/ML for personalized therapy recommendations.",
+          "languages": "CSS, JS, React, Tailwind, JWTAuth"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectCerebroSync.png",
+        "title": "CerebroSync",
+        "subTitle": "AIML, Web Development",
+        "details": {
+          "title": "CerebroSync",
+          "description": "A MERN stack web app that combines AI and data science to boost student productivity through task management, a Pomodoro timer, habit tracking, and personalized insights. The web app would leverage AI to analyze students' task completion patterns and suggest optimized schedules or study techniques. The Pomodoro timer would integrate with habit tracking to monitor study sessions and breaks, providing insights on productivity trends, could track long-term habits and offer personalized feedback to help students maintain consistency and improve focus. The web application might also include features like visual progress dashboards and motivational nudges based on user behavior.",
+          "languages": "CSS, JS, React, Tailwind, JWTAuth, LangChain"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectSymbiosisClassifieds.jpeg",
+        "title": "Symbiosis Classifieds",
+        "subTitle": "Desktop Application",
+        "details": {
+          "title": "Symbiosis Classifieds - One Step Solution",
+          "description": " Platform for housing, item exchanges, and ride-sharing among students, leveraging MySQL for organized data management and real-time updates, simplifying student interactions and needs.",
+          "languages": "Java, DBMS"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectUnifiedLoginSystem.png",
+        "title": "University Unified Login System",
+        "subTitle": "Web Development",
+        "details": {
+          "title": "University Unified Login System",
+          "description": " Created a secure, unified login system for university platforms, streamlining user access and enhancing authentication processes across multiple services.",
+          "languages": "HTML, CSS, JS"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectHostelManagementSystem.jpg",
+        "title": "Hostel Accommodation Management System",
+        "subTitle": "C++ Programming",
+        "details": {
+          "title": "Hostel Accommodation Management System",
+          "description": " Application for managing hostel accommodations, featuring room allocation, booking management, and student record maintenance.",
+          "languages": "C++ (OOPs)"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectSmartBlindStick.jpg",
+        "title": " Smart Blind Stick",
+        "subTitle": "Electronics, Robotics",
+        "details": {
+          "title": "Smart Blind Stick",
+          "description": " Smart blind stick prototype using robotics and sensors, aimed at assisting visually impaired individuals with obstacle detection and navigation. ",
+          "languages": "Electronics, Sensors, Robotics"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectCardGame.png",
+        "title": " Card Game",
+        "subTitle": "Python Programming",
+        "details": {
+          "title": "Card Game",
+          "description": " Interactive card game in Python, focusing on game logic, user interface, and incorporating key programming concepts. ",
+          "languages": "Python"
+        }
+      },
+      {
+        "thumbUrl": "/images/portfolioProjectUnifiedLoginSystem.png",
+        "title": " Library Management System",
+        "subTitle": "C Programming",
+        "details": {
+          "title": "Library Management System",
+          "description": " Program to manage library operations including book inventory, member records, and transaction tracking, with a user-friendly command-line interface. ",
+          "languages": "C Programming"
+        }
+      }
+
+    ]
+  },
+  "education": {
+    "sectionHeading": {
+      "miniTitle": "Education"
+    },
+    "allEducation": [
+      {
+        "Title": "DAV Public School",
+        "Address":"Pushpanjali Enclave,Delhi",
+        "Timeline":"2008-2022",
+        "Description": " Percentage: 96.4 %  X CBSE | 91.8 %  XII CBSE "
+      },
+      {
+        "Title": "Symbiosis Institute of Technology, Pune",
+        "Address":"B.Tech Computer Science and Engineering",
+        "Timeline":"2022-2026",
+        "Description": " CGPA:  8.1 "
+      }
+      
+    ]
+  },
+  "skills": {
+    "sectionHeading": {
+      "miniTitle": "Skills"
+    },
+    "allSkills": [
+      {
+        "Title": "C/C++"
+      },
+      {
+        "Title": "Java"
+      },
+      {
+        "Title": "Python"
+      },
+      {
+        "Title": "Web Development"
+      },
+      {
+        "Title": "Database Management System (MySQL)"
+      },
+      {
+        "Title": "Data Science (Numpy, Pandas)"
+      },
+      {
+        "Title": "Problem Solving"
+      },
+      {
+        "Title": "Agile Software Development"
+      },
+      {
+        "Title": "Project Management"
+      },
+      {
+        "Title": "Leadership"
+      },
+      {
+        "Title": "Public Speaking"
+      },
+      {
+        "Title": "Critical Thinking"
+      }
+      
+    ]
+  },
+    
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Connect",
+      "subTitle": "Feel free to reach out for collaborations, opportunities, or just a friendly chat!"
+    },
+    "contactImg": "/images/portfolioContactMeImage.jpg",
+    "contactInfo": [
+      { "title": "E-mail :", "email": "aayushabhatia16@gmail.com" },
+      { "title": "Contact No. :", "tel": "+91 9667700242" }
+    ]
+  }
+}
